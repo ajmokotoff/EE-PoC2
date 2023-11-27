@@ -1,0 +1,43 @@
+Digital Evidence Archive
+Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Licensed under the Apache License Version 2.0 (the "License"). You may not use this file except
+in compliance with the License. A copy of the License is located at http://www.apache.org/licenses/
+or in the "license" file accompanying this file. This file is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, express or implied. See the License for the
+specific language governing permissions and limitations under the License.
+
+**********************
+THIRD PARTY COMPONENTS
+**********************
+This software includes third party software subject to the following copyrights:
+
+AWS SDK under the Apache License Version 2.0
+aws-cdk under the Apache License Version 2.0
+aws-lambda under the MIT License
+constructs under the Apache License Version 2.0
+dynamodb-onetable under the MIT License
+lodash under the MIT License
+source-map-support under the MIT License
+casl under the MIT License
+aws-jwt-verify under the Apache License Version 2.0
+crypto-js under the MIT License
+joi under the BSD-3-Clause License
+jsonwebtoken under the MIT License
+pkce-challenge under the MIT License
+ulid under the MIT License
+uuid under the MIT License
+cloudscape-design under the Apache License Version 2.0
+aws4-axios under the MIT License
+axios under the MIT License
+crypto-js under the MIT License
+date-fns under the MIT License
+i18next under the MIT License
+jsonwebtoken under the MIT License
+jwt-decode under the MIT License
+next under the MIT License
+pkce-challenge under the MIT License
+react under the MIT License
+swr under the MIT License
+uuid under the MIT License
+convict under the Apace License Version 2.0
+js-yaml under the MIT License
